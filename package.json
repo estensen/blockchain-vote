@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-vote",
+  "version": "1.0.0",
+  "description": "A simple decentralized application",
+  "author": "Håvard Anda Estensen",
+  "repository": "git@github.com:estensen/blockchain-vote.git",
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "solc": "^0.4.17",
+    "web3": "^0.20.1"
+  }
+}
